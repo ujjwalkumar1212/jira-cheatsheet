@@ -2,7 +2,7 @@
 A short summary of some key Jira setup commands
 
 ## Login:
-1. Click on this link: http://198.209.246.206:8080/login.jsp
+1. Click on this link: <http://198.209.246.206:8080/login.jsp>
 2. Login by entering valid credential like Username and Password.
 
 ## Dashboard:
