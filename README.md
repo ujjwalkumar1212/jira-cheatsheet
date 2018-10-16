@@ -20,7 +20,31 @@ A short summary of some key Jira setup commands
 5. We can edit the name of any versions or epics by clicking on dropdown icon present beside each created version or epic.
 
 ## Creating User-Stories, Tasks and Sub-tasks:
-1. 
+1. To Create User-Story, Tasks, click on Create button on the navigation bar.
+2. A model of Create Issue would be opened where we have to select the Issue type(Task, Story, Bug or epic).
+3. Then write the summary of that Issue type.
+4. After that Reporter field needs to be filled.
+5. Then we need to put Description of that issue.
+6. In Fix Version/s field, we need to enter the version into which we want to add this issue.
+7. After that we need to set the priority of the issue.
+8. We can add any attachment if required.
+9. In case of User stories, there is no need to put any Linked Issues/Issue but in case of any child task, we need to link the child task with its parent task by selecting the parent issue from the issue dropdown.
+10. As an admin, we canassign the task to any teammates working on that issue, or we can select Assignee as Unassigned.
+11. Select the corresponding epic from Epic link dropdown.
+12. Select the sprint into which we want to add this issue.
+13. Finally, click on Create button to create the issue.
+
+## Updating or Deleting an Issue:
+1. Click on any issue under backlog and press (E) to edit or we can click on three dots icon(...) at the top right corner of the Action pannel and click on Edit.
+2. We can update any field and click on Update button to finish update.
+3. To Delete any issue, Click on any issue under backlog and then click on three dots icon(...) at the top right corner of the Action pannel and click on Delete.
+
+## Closing Tasks:
+1. Click on any issue under backlog and then click on view this issue link by hovering on issue number just beside the three dots icon(...) at the top right corner of the Action pannel.
+2. now we can provide our comments, change the status of the task and also add links, screenshots, images and attachments as a proof before closing any task.
+
+
+
 
 
 
